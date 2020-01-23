@@ -1,4 +1,6 @@
 bulka
 ser
 szynka
+salami
+peperoni
 bulka
