@@ -1,2 +1,2 @@
 bob jest najlepszy
-paddding: 30px;
+padding 10px;
