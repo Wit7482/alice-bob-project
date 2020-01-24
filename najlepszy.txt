@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 asddwsa
+=======
+Alice i Bob sa najlepsi na swiecie.
+>>>>>>> b3dd1cb543d5c2b95a7b6ca15d0a281b0f7b6317
