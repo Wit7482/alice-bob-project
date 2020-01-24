@@ -1,1 +1,2 @@
 bob jest najlepszy
+margin 10px
