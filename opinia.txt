@@ -1,6 +1,5 @@
 bob jest najlepszy
-<<<<<<< HEAD
+
 margin 10px
-=======
-paddding: 30px;
->>>>>>> feature-c
+
+
