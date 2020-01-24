@@ -1,6 +1,7 @@
 sos
 ser
 pieczarki
+jajko
 salami
 boczek
 szynka
