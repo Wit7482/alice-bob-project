@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Bob jest najlepszy.
-=======
-Alice jest najlepsza.
->>>>>>> ea431a5cb7ccab48105aea3eafd960e3df810dfa
+
