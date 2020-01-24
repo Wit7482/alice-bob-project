@@ -1,5 +1,3 @@
 sos
 ser
-szynka
-cebula
-pieczarki
+
